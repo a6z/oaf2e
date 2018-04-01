@@ -6,6 +6,18 @@
   @include font-smoothing(antialiased);
 }
 
+.icon-05:before {
+  content: "\e903";
+}
+.icon-04:before {
+  content: "\e902";
+}
+.icon-03:before {
+  content: "\e901";
+}
+.icon-02:before {
+  content: "\e900";
+}
 .icon-01:before {
   content: "\e986";
 }
